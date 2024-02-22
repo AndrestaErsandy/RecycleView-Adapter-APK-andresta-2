@@ -1,0 +1,1 @@
+# RecycleView-Adapter-APK-andresta-2
